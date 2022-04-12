@@ -1,0 +1,14 @@
+C:\Users\Devendra Malve\source\repos\CsharpPracticeProgram\CsharpPracticeProgram\obj\Debug\CsharpPracticeProgram.csproj.AssemblyReference.cache
+C:\Users\Devendra Malve\source\repos\CsharpPracticeProgram\CsharpPracticeProgram\obj\Debug\CsharpPracticeProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Devendra Malve\source\repos\CsharpPracticeProgram\CsharpPracticeProgram\obj\Debug\CsharpPracticeProgram.csproj.CoreCompileInputs.cache
+C:\Users\Devendra Malve\source\repos\CsharpPracticeProgram\CsharpPracticeProgram\bin\Debug\CsharpPracticeProgram.exe.config
+C:\Users\Devendra Malve\source\repos\CsharpPracticeProgram\CsharpPracticeProgram\bin\Debug\CsharpPracticeProgram.exe
+C:\Users\Devendra Malve\source\repos\CsharpPracticeProgram\CsharpPracticeProgram\bin\Debug\CsharpPracticeProgram.pdb
+C:\Users\Devendra Malve\source\repos\CsharpPracticeProgram\CsharpPracticeProgram\obj\Debug\CsharpPracticeProgram.exe
+C:\Users\Devendra Malve\source\repos\CsharpPracticeProgram\CsharpPracticeProgram\obj\Debug\CsharpPracticeProgram.pdb
+C:\Users\Devendra Malve\source\repos\CsharpPracticeProgram\CsharpPracticeProgram\bin\Debug\Castle.Core.dll
+C:\Users\Devendra Malve\source\repos\CsharpPracticeProgram\CsharpPracticeProgram\bin\Debug\Ploeh.AutoFixture.dll
+C:\Users\Devendra Malve\source\repos\CsharpPracticeProgram\CsharpPracticeProgram\bin\Debug\UnitTestGenerator.dll
+C:\Users\Devendra Malve\source\repos\CsharpPracticeProgram\CsharpPracticeProgram\bin\Debug\Castle.Core.xml
+C:\Users\Devendra Malve\source\repos\CsharpPracticeProgram\CsharpPracticeProgram\bin\Debug\Ploeh.AutoFixture.xml
+C:\Users\Devendra Malve\source\repos\CsharpPracticeProgram\CsharpPracticeProgram\obj\Debug\CsharpPracticeProgram.csproj.CopyComplete
